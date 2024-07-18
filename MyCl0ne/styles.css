@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.feature {
+    margin: 20px;
+    width: 250px;
+    text-align: center;
+}
+
+.feature img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.why-ple-connect {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.reason {
+    margin: 20px;
+    width: 250px;
+    text-align: center;
+}
+
+.reason img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
